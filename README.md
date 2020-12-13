@@ -5,6 +5,7 @@ Dataset we used:
 2. Glove.6B from https://nlp.stanford.edu/projects/glove/
 
 Training instruction
+
 0. ($ pip3 install -r requirements.txt) not necessary
 1. $ Python3 train.py
 
